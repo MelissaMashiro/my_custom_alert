@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.1 - 2024-10-02
 
-* TODO: Describe initial release.
+* Creation of the custom alert dialog

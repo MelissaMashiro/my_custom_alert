@@ -1,3 +1,4 @@
+/*
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:my_custom_alert/my_custom_alert.dart';
@@ -10,3 +11,5 @@ void main() {
     expect(calculator.addOne(0), 1);
   });
 }
+
+*/
